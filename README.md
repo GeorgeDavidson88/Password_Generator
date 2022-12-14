@@ -1,7 +1,19 @@
 # Password Generator GUI
 
-This is a non-functional password generator. The GUI is the focus.
+A functional password generator.
 
 ![password_generator_gui.png](README.assets/password_generator_gui.png)
 
-It might be functional soon.
+## Instructions
+
+### Installation
+
+Make sure you have customtkinter installed.
+
+```python
+pip install customtkinter # install pygame with pip
+```
+
+### How To Use
+
+If you can't figure out how to use it, find a window higher than two stories, ideally five stories.
