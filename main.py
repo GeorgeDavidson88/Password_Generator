@@ -122,9 +122,6 @@ class App(customtkinter.CTk):
 
         self.password.set(password)
 
-    def mainloop(self):
-        return super().mainloop()
-
 
 def main():
     app = App()
