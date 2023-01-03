@@ -17,8 +17,8 @@ class App(customtkinter.CTk):
         self.resizable(0, 0)
 
         self.title("Password Generator")
-        self.iconphoto(True, PhotoImage(
-            file=os.path.join("graphics", "icon.png")))
+        self.iconphoto(False, PhotoImage(
+            file=os.path.join("icon", "icon.png")))
 
         self.password_lenght = StringVar(self, f"Password Lenght (16)")
 
