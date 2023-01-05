@@ -11,7 +11,7 @@ A functional password generator made with customtkinter.
 Make sure you have customtkinter installed.
 
 ```python
-pip install customtkinter # install pygame with pip
+pip install customtkinter # install customtkinter with pip
 ```
 
 ### How To Use
