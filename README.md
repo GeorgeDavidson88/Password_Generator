@@ -1,4 +1,4 @@
-# Password Generator GUI
+# Password-Generator-GUI
 
 A random password generator made with customtkinter.
 
